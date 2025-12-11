@@ -1,4 +1,4 @@
-#**ITT440 individual assignment web performance testing: Locust @https://www.deepseek.com/**
+**ITT440 INDIVIDUAL ASSIGNMENT WEB PERFORMANCE TESTING**
 * NAME: KHALID BIN SHUKRY TALIB
 * GROUP: NBCS2555A
 * PREPARED FOR: SIR SHAHADAN BIN SAAD
