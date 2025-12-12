@@ -6,6 +6,7 @@
 * TESTING SELECTED: LOAD, SPIKE, AND VOLUME
 * TARGETED SITE: https://www.deepseek.com/
 * TOOL: LOCUST
+* PRESENTATION VIDEO: https://youtu.be/ax7_wyMvQ58
 
 # 1.	What is Performance Testing? 
 
